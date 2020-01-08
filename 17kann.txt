@@ -1,0 +1,8 @@
+@InProceedings{kann_2017_EACL,
+  author    = {Kann, Katharina and Cotterell, Ryan and  Sch\"{u}tze, Hinrich},
+  title     = {Neural Multi-Source Morphological Reinflection},
+  booktitle = {Proceedings of the 2017 Conference of the European Chapter of the Association for Computational Linguistics},
+  month     = {April},
+  year      = {2017},
+  address   = {Valencia, Spain},
+} 
